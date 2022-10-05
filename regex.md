@@ -64,7 +64,11 @@ There are 3 positions qualified as word boundaries in regex: Before the first ch
 
 ### Back-references
 
+Back references are regular expression commands which will refer to a previous part of the matched regular expression. Back references are specified with a backslash and a single digit. Back references are the part of the regular expression that refers to a subexpression, and is designated with parenthesis.
+
 ### Look-ahead and Look-behind
+
+In regex, lookahead allows the user to add a condition for what follows. Lookbehind is similar to lookahead, but it looks behind and it allows it to match a pattern only if there's something before it.
 
 ## Author
 
