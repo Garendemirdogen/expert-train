@@ -40,6 +40,8 @@ Regex recognizes range expressions inside of a list. They represent those charac
 
 ### Character Classes
 
+A character class is a set of characters that are enclosed within square brackets. It specifies the characters that will be successfully matched with a single character from a given input string.
+
 ### Flags
 
 ### Grouping and Capturing
