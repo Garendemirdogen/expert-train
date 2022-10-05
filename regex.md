@@ -52,6 +52,8 @@ Grouping in regex takes multiple patterns as a whole and groups them together. C
 
 ### Bracket Expressions
 
+Bracket expressions [] denotes a character class where () expressions denotes a capturing group.
+
 ### Greedy and Lazy Match
 
 ### Boundaries
