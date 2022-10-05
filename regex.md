@@ -44,6 +44,8 @@ A character class is a set of characters that are enclosed within square bracket
 
 ### Flags
 
+In regex, a flag is an optional parameter that modifies its behavior of searching. A flag will change the default searching behavior or a regular expression. It makes a regex search in a different way. A flag is denoted by using a single lowercase alphabetic character.
+
 ### Grouping and Capturing
 
 ### Bracket Expressions
