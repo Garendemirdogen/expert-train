@@ -48,6 +48,8 @@ In regex, a flag is an optional parameter that modifies its behavior of searchin
 
 ### Grouping and Capturing
 
+Grouping in regex takes multiple patterns as a whole and groups them together. Capturing groups then provides extra submatch information when using a reular expression pattern to match against a string.
+
 ### Bracket Expressions
 
 ### Greedy and Lazy Match
