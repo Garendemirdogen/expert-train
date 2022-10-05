@@ -36,6 +36,8 @@ Regex Quantifiers are used to quantify how many times a part of the regular expr
 
 ### OR Operator
 
+Regex recognizes range expressions inside of a list. They represent those characters that fall between the two elements in the current sequence. The user will form a range expression by puttiung a range operator (-) between two characters.
+
 ### Character Classes
 
 ### Flags
