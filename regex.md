@@ -52,11 +52,15 @@ Grouping in regex takes multiple patterns as a whole and groups them together. C
 
 ### Bracket Expressions
 
-Bracket expressions [] denotes a character class where () expressions denotes a capturing group.
+Bracket expressions [ ] denotes a character class where ( ) expressions denotes a capturing group.
 
 ### Greedy and Lazy Match
 
+In regex, greedy means to match the longest possible string and lazy means to match the shortest possible string.
+
 ### Boundaries
+
+There are 3 positions qualified as word boundaries in regex: Before the first character in a string if the first character is a word character, after the last character in a string if the last character is a word character, and between two characters in a string if one is a word character and the other is not.
 
 ### Back-references
 
