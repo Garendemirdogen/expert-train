@@ -58,4 +58,6 @@ A character class is a set of characters that are enclosed within square bracket
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Garen Demirdogen and I am currently enrolled in a coding boot camp via Columbia University. My goal is to become a software engineer and work my dream job in the coding field.
+
+- GitHub Profile: https://github.com/Garendemirdogen
