@@ -1,11 +1,12 @@
 # Regex Tutorial
 
-- This is a tutorial to explain regular expressions (Regex) and the uses of it
+This is a tutorial to explain regular expressions (Regex) and the uses of it
 
 ## Summary
 
-- Regex, short for regular expression, is often used in programming languages for matching patterns in strings,
-  find and replace, input validation, and reformatting text. Learning how to properly use Regex can make working with text much easier.
+Regex, short for regular expression, is often used in programming languages for matching patterns in strings,
+find and replace, input validation, and reformatting text. Learning how to properly use Regex can make working with text much easier.
+
 - Example: ^[a-zA-Z0-9]+([._]?[a-zA-Z0-9]+)\*$
 
 ## Table of Contents
@@ -30,6 +31,8 @@ Anchors are part of the family of regex tokens that do not match any characters,
 Anchors also assert that engine's current position in a string matches a well determined location like the beginning of a string or the end of a line
 
 ### Quantifiers
+
+Regex Quantifiers are used to quantify how many times a part of the regular expression should be repeated. Every time the user wants to repeat something in a regex (whether it be an individual character, a character class or a sub expression) you can then write a quantifier after to specify how many times it should be repeated.
 
 ### OR Operator
 
