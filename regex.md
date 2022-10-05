@@ -5,7 +5,7 @@
 ## Summary
 
 - Regex, short for regular expression, is often used in programming languages for matching patterns in strings,
-- find and replace, input validation, and reformatting text. Learning how to properly use Regex can make working with text much easier.
+  find and replace, input validation, and reformatting text. Learning how to properly use Regex can make working with text much easier.
 - Example: ^[a-zA-Z0-9]+([._]?[a-zA-Z0-9]+)\*$
 
 ## Table of Contents
