@@ -26,6 +26,9 @@
 
 ### Anchors
 
+Anchors are part of the family of regex tokens that do not match any characters, but that also assert something about a string or the matching process.
+Anchors also assert that engine's current position in a string matches a well determined location like the beginning of a string or the end of a line
+
 ### Quantifiers
 
 ### OR Operator
